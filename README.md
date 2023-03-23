@@ -1,4 +1,4 @@
-### Olá! Sou Miguel Monteiro, estudante de Automação Industrial iniciante na programação!
+### Olá! Sou Miguel Monteiro, iniciante na programação!
 <div align="center">
   <a href="https://github.com/MiguelMonteirooo">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MiguelMonteiroo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
